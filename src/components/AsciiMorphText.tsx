@@ -1,14 +1,5 @@
 import React from 'react';
 
-// Fictional roles that will morph dynamically in ASCII on your screen
-// // Fictional roles that will morph dynamically
-// const roles = [
-//   'Full-Stack Developer',
-//   'Creative Technologist',
-//   'UI/UX Design Engineer',
-//   'Open Source Contributor'
-// ];
-
 export const About: React.FC = () => {
   return (
     <section className="about-section flex flex-col justify-center items-center min-h-screen container mx-auto px-6 text-center">
