@@ -1,12 +1,13 @@
 import React from 'react';
 
 // Fictional roles that will morph dynamically in ASCII on your screen
-const roles = [
-  'Full-Stack Developer',
-  'Creative Technologist',
-  'UI/UX Design Engineer',
-  'Open Source Contributor'
-];
+// // Fictional roles that will morph dynamically
+// const roles = [
+//   'Full-Stack Developer',
+//   'Creative Technologist',
+//   'UI/UX Design Engineer',
+//   'Open Source Contributor'
+// ];
 
 export const About: React.FC = () => {
   return (
